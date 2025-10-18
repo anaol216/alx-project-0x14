@@ -1,4 +1,4 @@
-import { ButtonProps } from "@/interfaces";
+import { ButtonProps } from "@/interfaces/index";
 
 const Button: React.FC<ButtonProps> = ({ title, action }) => {
   return (

@@ -1,4 +1,4 @@
-import { ComponentProps } from "@/interfaces";
+import { ComponentProps } from "@/interfaces/index";
 import Header from "./Header";
 import Footer from "./Footer";
 
